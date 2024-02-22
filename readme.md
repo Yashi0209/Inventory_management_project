@@ -1,21 +1,6 @@
 # Cashier System Management & Inventory Management Using Django.
 
 
-| Build Status      |
-| ----------- | 
-[![CircleCI](https://circleci.com/gh/iColdPlayer/Cashier/tree/master.svg?style=svg&circle-token=4f154d06f362677227578c720f589ec04968e23b)](https://circleci.com/gh/iColdPlayer/Cashier/tree/master)
-
-
-
-
-You can also see the live demo [here](https://kasir.herokuapp.com). <br>
-with user: `admin` <br>
-password: `demoadmin` (**The demo can take a time to load**)
-
-
-Read more the flowchart and the pattern models [here](/cashierModel.md)
-
-
 ### Installation:
 ```bash
 # Clone it
